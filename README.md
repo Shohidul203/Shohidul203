@@ -1,6 +1,5 @@
-## Hi there 👋
-
-### Welcome to shohidul's GitHub Profile
+#                                      Hi👋. I am Md. Shohidul Islam 
+## Welcome to my GitHub Profile
 
 🔭 I’m currently working on My Thesis 
 
