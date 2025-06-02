@@ -2,7 +2,8 @@
 # I am Md. Shohidul Islam 
 ## Welcome to my GitHub Profile
 
-### Researcher | Data Science | Data Analysis | Artificial Intelligence | Machine Learning | Deep Learning | Computer Vision
+### Researcher 
+### Data Science | Data Analysis | Artificial Intelligence | Machine Learning | Deep Learning | Computer Vision
 
 🔭 I’m currently working on My Thesis 
 
