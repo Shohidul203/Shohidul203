@@ -3,7 +3,7 @@
 
 ### Researcher 
 ### Data Science | Data Analysis | Artificial Intelligence | Machine Learning | Deep Learning | Computer Vision
-### A passionate CSE graduate from  American International University of Bangladesh  
+A passionate CSE graduate from  American International University of Bangladesh  
 🔭 I’m currently working on My Thesis 
 
 🌱 I’m currently learning AI, ML and Data Science 
