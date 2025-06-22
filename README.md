@@ -4,15 +4,14 @@
 ### Researcher 
 ### Data Science | Data Analysis | Artificial Intelligence | Machine Learning | Deep Learning | Computer Vision
 A passionate CSE graduate from  American International University of Bangladesh  
+
 🔭 I’m currently working on My Thesis 
 
 🌱 I’m currently learning AI, ML and Data Science 
 
 ## About me...
-I am a driven, ambitious and self-motivated person who has a passion for data science, data 
-analysis and researching, artificial intelligence, machine learning, leading projects and 
-designing websites. I strongly value continuous learning and knowledge sharing, which guide 
-my professional and personal growth.
+I am a driven, ambitious and self-motivated person who has a passion for data science, data analysis and researching, artificial intelligence, machine learning, leading projects and 
+designing websites. I strongly value continuous learning and knowledge sharing, which guide my professional and personal growth.
 
 ## 📫 How to reach me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ms-islam203/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@showjeeb) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sojibaiub203@gmail.com) 
